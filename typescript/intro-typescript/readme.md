@@ -6,9 +6,8 @@ This project is references from this [youtube video](https://www.youtube.com/wat
 
 ```bash
 # npm
-
-npm install
-npm run dev
+npx tsc
+npx tsc --watch
 
 #jest
 npm test
